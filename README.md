@@ -1,4 +1,16 @@
 # Delivrance
 
 # Akariiinnn : Quentin R.
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7O0gNE7Z4Hti0Q10C+efTu07I7M/fnJ4uEcR9pk3MEG4GWsAKyNYS0PaU7k44n5/8CNZTENhZIkK7DrP//ZUtu2ijT6LIaoexaHAL1B8bjB5RIPQ3TJYfNX5FIPAvfZpMJuuTr3thUSVeIVrrmUNGGQqYfhYRgiWYQj1TTTpBwxPR6jqDTi9LjjS0ZLKf+UAmwdQvXpP2Fow+4bXJPrxPHZcK+hYxI+sTZdRezy6XUHO9envGzkeVFpXcJPm6VaCMS17BDgrloviq3Er3dquyscpuLOutNqdVWQ2UvKCVqgEHyZBHAkF4EEvqGA0Kmxyna4zjtpDyINggrdyZhbTaHPpgdkYkK85WreNEORFhucQBrSmsW4hGHRGz69Qy1OUz0WdycX6qBoK1tAAw5I8tAW7G5a0k25eIE7N74cHHlPjHqS+E6EkwmF/16ZdGYWZMyOSlaHesAx5NaBKs+7nYVr4nd8AeD49jjq1D7Ub8C63XFILvRFGvRZMQn2645As= kalmanoval@mail.ru
+SHA256:BOfOPs5iY1hID1LNQ8MnJppVspmnIjhv/O99FMBJ/kU fake@example.com
+The key's randomart image is:
++---[RSA 2048]----+
+|    .*=oo.  E    |
+|    +=B*=  .     |
+|   =+o.++.  .    |
+|. + oo + ...     |
+|+ .o.+  S ..     |
+| = .. o.  .      |
+|  +  o  o.       |
+| . .. =+ ..      |
+|    .=oo+.       |
++----[SHA256]-----+
